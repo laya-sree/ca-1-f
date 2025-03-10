@@ -1,6 +1,11 @@
 ### Deployment link:
 
+https://client-testimonials1.netlify.app/
 
+
+##repo link:
+
+https://github.com/laya-sree/ca-1-f.git
 
 
 
